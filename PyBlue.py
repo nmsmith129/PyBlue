@@ -1,3 +1,5 @@
+import chess
+
 def main():
     return
 
