@@ -1,6 +1,3 @@
-import python-chess
-import stockfish
-
 def main():
     return
 
